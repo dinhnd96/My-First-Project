@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tạo cuộc hẹn 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03ab6ed3-4f28-4343-9c66-a1400a3b8639</testCaseGuid>
+</TestCaseEntity>
